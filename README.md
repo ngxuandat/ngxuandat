@@ -2,7 +2,7 @@
 
 ## 🌱 I’m currently learning basic machine learning methods, deep learning, and behavioral economics.
 
-I have a [website](https://ngxuandat.github.io/blog/) too!
+## I have a [website](https://ngxuandat.github.io/blog/) too!
 <!--
 **ngxuandat/ngxuandat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
