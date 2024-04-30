@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## 🌱 I’m currently learning basic machine learning methods, deep learning, and very interested in applications of NLP in education. 
+## 🌱 I’m currently learning basic machine learning methods, deep learning, and very interested in applications of NLP in Education/Healthcare and Economics. 
 
-## I have a [website](https://ngxuandat.github.io) too!
+## I have a [website](https://ngxuandat.github.io) and a [Blog](https://datdevlog.wordpress.com/) too!
 <!--
 **ngxuandat/ngxuandat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
